@@ -1,0 +1,44 @@
+.services {
+  padding: 80px 0;
+  background-color: #101099;
+  color: #f3f1f1;
+}
+
+.services-heading {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.service-item {
+  text-align: center;
+  padding: 20px;
+  background-color: #2828aa;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgba(54, 37, 37, 0.1);
+  margin-bottom: 30px;
+}
+
+.service-image {
+  max-width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  background: none;
+}
+
+.service-title {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+
+.service-text {
+  margin-top: 10px;
+}
+
+.service-bullets {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 15px;
+  text-align: left;
+}

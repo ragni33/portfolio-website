@@ -1,0 +1,68 @@
+.header {
+  background-color: #f5f5fa;;
+  color: #0c0c0c;
+  width: 100%;
+}
+.logo {
+  height: 50px;
+  margin: 5%;
+  color: rgb(20, 19, 19);
+  padding-left: 10px; /* Adjust the padding here */
+}
+
+.menu-bar {
+  margin: 1%;
+    background-color: white;
+  padding-right: 10px; /* Add this line to adjust the padding */
+}
+
+.nav-link {
+  color: #080808 !important;
+  margin: 10px;
+  font-size: 10%;
+  transition: color 0.3s;
+  text-align: center;
+}
+
+.nav:hover {
+  color: rgb(36, 156, 231);
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+
+  .home {
+    padding: 15% 0;
+    background-color: #101099;
+    color: #fff9f9;
+    text-align: center;
+    height: 900px;
+    
+  }
+  
+  .home-title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-subtitle {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .home-description {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .home-image {
+    max-width: 100%;
+    height: 500px;
+    margin-top: -9%;
+    
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
